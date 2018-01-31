@@ -1,13 +1,11 @@
 package org.ravi.helloworld;
 
 public class Hello {
-
-public int i;
 	
 	public String displayHelloMessage(String message){
-public int j;
+                   public int j;
 		message="hi";
-System.out.println("test log");
+           // System.out.println("test log");
 		return message;
 	}
 
