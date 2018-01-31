@@ -4,7 +4,7 @@ public class Hello {
 	
 	public String displayHelloMessage(String message){
                  int j;
-		message="hi";
+		message="hi jay";
            // System.out.println("test log");
 		return message;
 	}
